@@ -195,7 +195,7 @@ background-position: center;
 
 }
 .item-5{
-  background: url(/Users/jesstillson/Desktop/projects/weeklychallenge2/assets/images/run-buddy-flex.png);
+  background: url("..images/run-buddy-flex.png");
   background-size: cover;
   background-position: center;
 
